@@ -1,0 +1,9 @@
+
+.square {
+    border-radius: 15px;
+    float:left;
+    width: 32.3%;
+    height: 32.3vw;
+    margin:0.5%;
+    background-color:orange;
+}
